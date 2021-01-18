@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  color: navy;
+}
+
+.food{
+    color:red;
+    text-align: center;
 }
 
 .App-logo {
